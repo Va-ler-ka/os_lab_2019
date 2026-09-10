@@ -1,0 +1,10 @@
+lab0/
+lab1/
+*.o 
+*.a 
+*.so 
+swap_prog 
+revert_prog 
+revert_stat 
+revert_dyn 
+tests_prog
