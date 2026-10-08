@@ -10,3 +10,7 @@ revert_dyn
 tests_prog
 lab6/src/server
 lab6/src/client
+tcpserver
+tcpclient
+udpserver
+udpclient
