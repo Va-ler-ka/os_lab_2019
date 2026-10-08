@@ -8,3 +8,5 @@ revert_prog
 revert_stat 
 revert_dyn 
 tests_prog
+lab6/src/server
+lab6/src/client
